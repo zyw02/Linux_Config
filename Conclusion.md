@@ -11,3 +11,7 @@ sudo vim /etc/hosts
 #在文件最后一行添加ip
 sudo /etc/inti.d/networking restart
 ```
+
+
+3.ubuntu将默认的python2切换为python3
+  -![2020-10-21 21-08-32屏幕截图.png](https://i.loli.net/2020/10/21/LfIGj5oAcDkBMH8.png)
